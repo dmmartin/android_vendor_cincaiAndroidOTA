@@ -60,7 +60,7 @@ Required firmware: add if any else remove this line
 ## 3. How to ##
 For following below description, replace *codename* with your device codename. 
 ### 3.1 Initial support ###
-After you contacted [Gabriel on Telegram](https://telegram.me/gwolf2u), and have the approval, follow the below steps.
+
 1. Fork this repo to your own GitHub.
 2. A file named *codename*.json is created in OUT dir after you built.
 3. Copy it to where this repo was cloned.
