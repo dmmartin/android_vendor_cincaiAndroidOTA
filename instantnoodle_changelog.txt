@@ -1,7 +1,7 @@
 Highlights & Device Specific Changes:
-Build type: Monthly
+Build type: Every12hr
 Device: OnePlus 8 (instantnoodle)
-Device maintainer: Shobhit Singh (iamshobhit5)
+Device maintainer: Denis Martin Monsini (denismm)
 
 ====================
      06-15-2025

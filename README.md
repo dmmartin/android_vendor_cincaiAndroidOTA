@@ -14,7 +14,7 @@ In order for a device to be OTA compliant, there are a few things to know.
         "oem": "OEM",
         "device": "Device Name",
         "filename": "crDroidAndroid-15.0-<date>-<device codename>-v<crversion>.zip",
-        "download": "https://sourceforge.net/projects/crdroid/files/<device codename>/<crversion>/crDroidAndroid-15.0-<date>-<device codename>-v<crversion>.zip/download",
+        "download": "https://sourceforge.net/projects/cincaiandroid/files/<device codename>/<crversion>/crDroidAndroid-15.0-<date>-<device codename>-v<crversion>.zip/download",
         "timestamp": 0000000000,
         "md5": "abcdefg123456",
         "sha256": "abcdefg123456",
